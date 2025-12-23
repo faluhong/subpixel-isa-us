@@ -1,0 +1,18 @@
+training_version_is_mask: binary_classification_v6_conus_topography
+epoch_cls: 100
+filename_prefix_is_mask: unet_classifier
+
+training_version_isp_regression: regressor_v6_conus_topography
+epoch_reg: 98
+filename_prefix_is_pct: unet_regressor_round
+
+norm_boundary_folder: maximum_minimum_ref_conus
+
+filename_prefix_mask_isp_output: unet_regressor_round_masked
+
+# path_cold_reccg: K:\CSM_project\data\Shi_CONUS_Agent_Detection_record # /shared/zhulab/Shi/ProjectCONUSDisturbanceAgent/Detection/
+# rootpath_product_output: K:\CSM_project
+# 
+path_cold_reccg: /shared/zhulab/Shi/ProjectCONUSDisturbanceAgent/Detection/
+rootpath_product_output: /gpfs/sharedfs1/zhulab/Falu/CSM_project/
+
