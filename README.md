@@ -10,3 +10,4 @@ The current repository is mainly for review purposes.
 ## Contact
 For questions or further information, please contact:
 - Falu Hong (faluhong@uconn.edu)
+- Zhe Zhu (zhe@uconn.edu)
