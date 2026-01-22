@@ -34,11 +34,9 @@ def get_conus_is_change_summary_data(output_folder, array_year_plot):
 
     # adjust to the years to be plotted
     df_is_change_sum_conus_plot = df_is_change_sum_conus[np.isin(df_is_change_sum_conus['year_1'].values, (array_year_plot[0:-1]))].copy()
-    # img_sum_isp_change_stats_conus_plot = img_sum_isp_change_stats_conus[3:35]
-    # img_sum_isp_change_stats_diag_zero_conus_plot = img_sum_isp_change_stats_diag_zero_conus[3:35]
-    #
-    img_sum_isp_change_stats_conus_plot = img_sum_isp_change_stats_conus[np.isin(np.arange(1985, 2022, 1), (array_year_plot[0:-1])), :, :]
-    img_sum_isp_change_stats_diag_zero_conus_plot = img_sum_isp_change_stats_diag_zero_conus[np.isin(np.arange(1985, 2022, 1), (array_year_plot[0:-1])), :, :]
+
+    img_sum_isp_change_stats_conus_plot = img_sum_isp_change_stats_conus[np.isin(df_is_change_sum_conus['year_1'].values, (array_year_plot[0:-1])), :, :]
+    img_sum_isp_change_stats_diag_zero_conus_plot = img_sum_isp_change_stats_diag_zero_conus[np.isin(df_is_change_sum_conus['year_1'].values, (array_year_plot[0:-1])), :, :]
 
     return (df_is_change_sum_conus_plot,
             img_sum_isp_change_stats_conus_plot,

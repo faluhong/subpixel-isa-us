@@ -1,0 +1,26 @@
+downloaded from 
+
+https://apps.bea.gov/itable/?ReqID=70&step=1
+
+https://apps.bea.gov/regional/downloadzip.htm
+
+
+SAINC: State Annual personal income and population
+SAGDP: State Annual GDP 
+
+CAINC1: Annual Personal Income by County
+CAGDP1: Annual GDP by county
+
+access 02/06/2025
+
+
+U.S. Bureau of Economic Analysis, "SAGDP1 State annual gross domestic product (GDP) summary" (accessed Sunday, November 16, 2025).
+
+https://apps.bea.gov/itable/?ReqID=70&step=1&_gl=1*3i17z0*_ga*MTI2NzEyMjc4Ny4xNzM4Nzc4NjMw*_ga_J4698JNNFT*MTc0MTY0MjAyNi45LjEuMTc0MTY0MjQ4Mi41Ni4wLjA.#eyJhcHBpZCI6NzAsInN0ZXBzIjpbMSwyOSwyNSwzMSwyNiwyNywzMF0sImRhdGEiOltbIlRhYmxlSWQiLCI1MzEiXSxbIk1ham9yX0FyZWEiLCIwIl0sWyJTdGF0ZSIsWyIwIl1dLFsiQXJlYSIsWyJYWCJdXSxbIlN0YXRpc3RpYyIsWyItMSJdXSxbIlVuaXRfb2ZfbWVhc3VyZSIsIkxldmVscyJdLFsiWWVhciIsWyItMSJdXSxbIlllYXJCZWdpbiIsIi0xIl0sWyJZZWFyX0VuZCIsIi0xIl1dfQ==
+
+U.S. Bureau of Economic Analysis, "SAINC1 State annual personal income summary: personal income, population, per capita personal income" (accessed Sunday, November 16, 2025).
+
+https://apps.bea.gov/itable/?ReqID=70&step=1&_gl=1*3i17z0*_ga*MTI2NzEyMjc4Ny4xNzM4Nzc4NjMw*_ga_J4698JNNFT*MTc0MTY0MjAyNi45LjEuMTc0MTY0MjQ4Mi41Ni4wLjA.#eyJhcHBpZCI6NzAsInN0ZXBzIjpbMSwyOSwyNSwzMSwyNiwyNywzMF0sImRhdGEiOltbIlRhYmxlSWQiLCIyMSJdLFsiTWFqb3JfQXJlYSIsIjAiXSxbIlN0YXRlIixbIjAiXV0sWyJBcmVhIixbIlhYIl1dLFsiU3RhdGlzdGljIixbIi0xIl1dLFsiVW5pdF9vZl9tZWFzdXJlIiwiTGV2ZWxzIl0sWyJZZWFyIixbIi0xIl1dLFsiWWVhckJlZ2luIiwiLTEiXSxbIlllYXJfRW5kIiwiLTEiXV19
+
+
+https://www.bea.gov/cautionary-note-about-annual-gdp-state-discontinuity
