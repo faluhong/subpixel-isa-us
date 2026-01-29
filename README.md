@@ -1,10 +1,10 @@
 # Subpixel impervious surface area across the contiguous U.S. (CONUS)
 
 ## Overview
-This repository contains data and code related to the estimation of subpixel 
-impervious surface area across (%ISA) the contiguous United States (CONUS).
+This repository contains data and code related to the estimation of subpixel percent 
+impervious surface area  (%ISA) across the contiguous United States (CONUS).
 
-The paper is under preparation and the dataset will be made publicly available upon publication.
+The dataset will be made publicly available upon paper publication.
 
 The current repository is mainly for peer review purposes. 
 
